@@ -6,4 +6,4 @@ whether there's a correlation between any of the two factors.
 Designed using:
   i. Streamlit;
   ii. Pandas;
-  iii. Plotly
+  \t iii. Plotly
